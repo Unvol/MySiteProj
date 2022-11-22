@@ -1,0 +1,21 @@
+.card {
+  margin: 50 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.container{
+ 
+}
+html , body { 
+  background: url(https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 1;
+}
+.card {opacity: 0.95 ;}
+h1 , h2 ,h3 ,h4 ,h5{
+  color: rgb(107, 117, 117);
+  opacity: 0.95;
+}
